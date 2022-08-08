@@ -1,7 +1,7 @@
 # Arduino-Jumping-Game
 
 
-# Features And Capabilities: # 
+## Features And Capabilities: ##
 1. This project displays a jumping game on the LCD.
 2. The pushbutton is pressed each time the player wants to jump.
 3. While playing the game, a red light will be turned off.
@@ -10,7 +10,7 @@
 
 #
 
-# The Circuit Diagram of The Jumping Game Project to Demonstrate the Connections #
+## The Circuit Diagram of The Jumping Game Project to Demonstrate the Connections ##
 1. Connect LCD GND to Arduino GND
 2. Connect LCD VCC to Arduino 5V
 3. Connect LCD SDA to Arduino A4
@@ -22,7 +22,7 @@
 
 #
 
-# Description For Each Component: #
+## Description For Each Component: ##
 - Arduino Uno Board <br /> 
 A programmable open-source controller board that can be integrated to be used in a variety of electronic projects
 - Breadboard <br />
