@@ -21,8 +21,8 @@ The Circuit Diagram of The Jumping Game Project to Demonstrate the Connections
 #
 
 Description For Each Component:
-- Arduino Uno Board
-#A programmable open-source controller board that can be integrated to be used in a variety of electronic projects
+- Arduino Uno Board <br /> 
+A programmable open-source controller board that can be integrated to be used in a variety of electronic projects
 - Breadboard
 #A construction base used for developing an electronic circuit and wiring for projects with microcontroller boards
 - LCD Module with I2C
