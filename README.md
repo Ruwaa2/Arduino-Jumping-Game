@@ -23,15 +23,15 @@ The Circuit Diagram of The Jumping Game Project to Demonstrate the Connections
 Description For Each Component:
 - Arduino Uno Board <br /> 
 A programmable open-source controller board that can be integrated to be used in a variety of electronic projects
-- Breadboard
-#A construction base used for developing an electronic circuit and wiring for projects with microcontroller boards
-- LCD Module with I2C
-#LCD is a type of display that uses the liquid crystals for its operation. Since the Arduino has a limited number of input/output pins, I2C enables the connection to more devices
-- Connection Wires
-#Flexible strands of metal used for establishing electrical conductivity between two devices of an electrical circuit
-- Pushbutton
-#A component that connects two points in a circuit when pressed
-- LED
-#A small powerful light
-- 220K Resistors
-#Are used to limit the amount of current going to certain components in the circuit
+- Breadboard <br />
+A construction base used for developing an electronic circuit and wiring for projects with microcontroller boards
+- LCD Module with I2C <br />
+LCD is a type of display that uses the liquid crystals for its operation. Since the Arduino has a limited number of input/output pins, I2C enables the connection to more devices
+- Connection Wires <br />
+Flexible strands of metal used for establishing electrical conductivity between two devices of an electrical circuit
+- Pushbutton <br />
+A component that connects two points in a circuit when pressed
+- LED <br />
+A small powerful light 
+- 220K Resistors <br />
+Are used to limit the amount of current going to certain components in the circuit
