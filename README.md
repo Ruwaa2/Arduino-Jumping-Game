@@ -1,5 +1,6 @@
 # Arduino-Jumping-Game
 
+![Screenshot](Picture.png)
 
 ## Features And Capabilities: ##
 1. This project displays a jumping game on the LCD.
@@ -9,11 +10,10 @@
 5. The counter will be displayed on the LCD to indicate the score of the player for this round.
 
 #
-![Screenshot](Picture.png)
 
 ## The Circuit Diagram of The Jumping Game Project to Demonstrate the Connections #
 
-![Screenshot](Circuit Diagram.png)
+![Screenshot](Circuit-Diagram.png)
 
 1. Connect LCD GND to Arduino GND
 2. Connect LCD VCC to Arduino 5V
