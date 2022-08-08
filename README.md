@@ -13,7 +13,7 @@
 
 ## The Circuit Diagram of The Jumping Game Project to Demonstrate the Connections #
 
-![Screenshot](Circuit-Diagram.png)
+![Screenshot](Circuit_Diagram.png)
 
 1. Connect LCD GND to Arduino GND
 2. Connect LCD VCC to Arduino 5V
