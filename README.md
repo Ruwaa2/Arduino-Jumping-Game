@@ -3,17 +3,19 @@
 ![Screenshot](Picture.png)
 
 ## Features And Capabilities: ##
-1. This project displays a jumping game on the LCD.
-2. The pushbutton is pressed each time the player wants to jump.
-3. While playing the game, a red light will be turned off.
-4. If the player loses the game, the red light will be turned on until they restart the game.
-5. The counter will be displayed on the LCD to indicate the score of the player for this round.
+- This project displays a jumping game on the LCD.
+- The pushbutton is pressed each time the player wants to jump.
+- While playing the game, a red light will be turned off.
+- If the player loses the game, the red light will be turned on until they restart the game.
+- The counter will be displayed on the LCD to indicate the score of the player for this round.
 
 #
 
-## The Circuit Diagram of The Jumping Game Project to Demonstrate the Connections #
+## Circuit Diagram #
 
 ![Screenshot](Circuit.png)
+
+The circuit diagram of the jumping game project demonstrates the connections:
 
 1. Connect LCD GND to Arduino GND
 2. Connect LCD VCC to Arduino 5V
