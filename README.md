@@ -9,8 +9,13 @@
 5. The counter will be displayed on the LCD to indicate the score of the player for this round.
 
 #
+![Screenshot](Picture.png)
 
 ## The Circuit Diagram of The Jumping Game Project to Demonstrate the Connections #
+
+![alt text](https://github.com/[Ruwaa2]/[Arduino-Jumping-Game]/Picture.jpg?raw=true)
+
+
 1. Connect LCD GND to Arduino GND
 2. Connect LCD VCC to Arduino 5V
 3. Connect LCD SDA to Arduino A4
